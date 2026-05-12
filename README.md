@@ -1,7 +1,7 @@
 
 | Наименование проекта| Содержание | Стек  |
 | :---         |     :---:      |          ---: |
-| [Исследование стартапов](https://github.com/ViktoriaSevrukova/Practicum_projects-/blob/main/Project%201/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D0%BE%D0%B2.ipynb)    |  Подготовка датасета к работе, исследование динамики и структуры финансирования стартапов.     | Python, numpy, matplotlib, pyplot, seaborn    |
+| [Исследование стартапов](https://github.com/ViktoriaSevrukova/Practicum_projects-/blob/main/Project%201/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D0%BE%D0%B2.ipynb)  |  Подготовка датасета к работе, исследование динамики и структуры финансирования стартапов.     | Python, numpy, matplotlib, pyplot, seaborn    |
 | [Анализ данных для агентства недвижимости]()     | Решение ad hoc задач с помощью SQL-запросов и формулировка аналитических выводов.      | Postgres, SQL       |
 | [Исследовательский анализ данных компьютерной игры "Секреты Темнолесья"]()     | Решение ad hoc задач с помощью SQL-запросов и формулировка аналитических выводов.      | Postgres, SQL       |
 | [Исследование компьютерных игр](https://github.com/ViktoriaSevrukova/Practicum_projects-/blob/main/Project%204/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B3%D1%80%20.ipynb)     | Проверка корректности данных, проведение предобработки, получние необходимого среза данных.      | Python      |
